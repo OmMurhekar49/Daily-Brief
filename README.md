@@ -4,17 +4,17 @@
 
 ---
 
-## 🌟 Features
-- **📌 Multiple News Categories:** Browse articles from diverse genres.  
-- **🔍 Search Functionality:** Find articles easily using keywords.  
-- **🌙 Light/Dark Mode:** Toggle between themes for comfortable reading.  
-- **📱 Responsive Design:** Works seamlessly on mobile, tablet, and desktop.  
-- **⏱️ Real-time Updates:** Fetches live news using APIs dynamically.  
-- **⚡ Optimized Performance:** Fast browsing with a smooth interface.
+## Features
+- **Multiple News Categories:** Browse articles from diverse genres.  
+- **Search Functionality:** Find articles easily using keywords.  
+- **Light/Dark Mode:** Toggle between themes for comfortable reading.  
+- **Responsive Design:** Works seamlessly on mobile, tablet, and desktop.  
+- **Real-time Updates:** Fetches live news using APIs dynamically.  
+- **Optimized Performance:** Fast browsing with a smooth interface.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend:** React.js  
 - **Styling:** CSS / Bootstrap / Tailwind (mention the one you used)  
 - **API Integration:** NewsAPI (or any other API you used)  
@@ -22,17 +22,18 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites  
 Make sure you have **Node.js** and **npm** installed. You can download them from [Node.js official site](https://nodejs.org/).
 
 ---
 
-### Installation Steps
+## Installation Steps
 1. **Clone the Repository**  
    Open your terminal and run:
    ```bash
-   git clone https://github.com/Hitman45-web/Daily-Brief.git
+   git clone https://github.com/OmMurhekar49/Daily-Brief.git
    cd Daily-Brief
+
 
